@@ -25,7 +25,7 @@
 #define VMP_VOID \
   {}
 #define VMP_BOOL \
-  { return false; }
+  { return true; }
 #define VMP_INT \
   { return 0; }
 #define VMP_STRING \
